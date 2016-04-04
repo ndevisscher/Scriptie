@@ -1,0 +1,2 @@
+# Scriptie
+Afstudeerscriptie Bachelor Informatiekunde
