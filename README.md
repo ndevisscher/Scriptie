@@ -1,5 +1,5 @@
-# Scriptie
-#### Afstudeerscriptie Bachelor Informatiekunde
+
+### Afstudeerscriptie Bachelor Informatiekunde
 
 Door: Niek de Visscher
 
