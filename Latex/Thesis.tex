@@ -1,0 +1,53 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{pdfpages} % http://mirror.unl.edu/ctan/macros/latex/contrib/pdfpages/pdfpages.pdf
+\begin{document}
+
+
+
+
+
+\input{tex/titlepage}\newpage\cleardoublepage
+
+
+\pagebreak
+
+\tableofcontents
+
+\pagebreak
+
+\begin{abstract}
+% [CHANGE] 
+\end{abstract}
+
+
+\pagebreak
+
+
+% Here you input all your sections in seperate files
+
+\input{tex/introduction}\newpage\cleardoublepage
+\input{tex/related_work}\newpage\cleardoublepage
+\input{tex/methodology}\newpage\cleardoublepage
+\input{tex/evaluation}\newpage\cleardoublepage
+\input{tex/conclusions}\newpage\cleardoublepage
+
+% your refs
+
+\bibliographystyle{plain}
+\bibliography{MyThesis}
+
+\appendix
+
+%\input{appendix}
+
+
+\section{Slides}
+
+% Example
+\includepdf[nup=2x3 , pages=-]{sargent-lecture_slides.pdf}
+ 
+\end{document}
