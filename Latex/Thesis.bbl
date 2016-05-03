@@ -1,11 +1,22 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{2}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[tro()]{troonredes}
+\bibitem[en~Pieter C.~Lagas.(2015)]{troonredes}
+Herko~Coomans en~Pieter C.~Lagas.
+\newblock troonredes.nl, 2015.
+\newblock URL \url{www.troonredes.nl}.
 
+\bibitem[Rule et~al.(2015)Rule, Cointet, and Bearman]{state}
+Alix Rule, Jean-Philippe Cointet, and Peter~S. Bearman.
+\newblock Lexical shifts, substantive changes, and continuity in state of the
+  union discourse, 1790–2014.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 112\penalty0
+  (35):\penalty0 10837--10844, 2015.
+\newblock \doi{10.1073/pnas.1512221112}.
+\newblock URL \url{http://www.pnas.org/content/112/35/10837.abstract}.
 
 \end{thebibliography}
