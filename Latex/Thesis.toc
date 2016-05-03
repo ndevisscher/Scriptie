@@ -1,15 +1,15 @@
 \contentsline {section}{\numberline {0.1}Introduction}{1}{section.0.1}
-\contentsline {paragraph}{Overview of thesis}{1}{section*.2}
-\contentsline {section}{\numberline {0.2}Related Work}{2}{section.0.2}
-\contentsline {subsection}{\numberline {0.2.1}RQ1}{2}{subsection.0.2.1}
-\contentsline {subsection}{\numberline {0.2.2}RQ2}{2}{subsection.0.2.2}
-\contentsline {section}{\numberline {0.3}Methodology}{3}{section.0.3}
-\contentsline {subsection}{\numberline {0.3.1}Description of the data}{3}{subsection.0.3.1}
-\contentsline {subsection}{\numberline {0.3.2}Wat plotjes en tabelletjes}{4}{subsection.0.3.2}
-\contentsline {subsection}{\numberline {0.3.3}Methods}{5}{subsection.0.3.3}
-\contentsline {subsubsection}{RQ1}{5}{section*.3}
-\contentsline {subsubsection}{RQ2}{5}{section*.4}
-\contentsline {section}{\numberline {0.4}Evaluation}{7}{section.0.4}
-\contentsline {section}{\numberline {0.5}Conclusions}{8}{section.0.5}
-\contentsline {subsection}{\numberline {0.5.1}Acknowledgements}{8}{subsection.0.5.1}
-\contentsline {section}{\numberline {.1}Slides}{9}{section.Alph0.1}
+\contentsline {paragraph}{Overview of thesis}{2}{section*.2}
+\contentsline {section}{\numberline {0.2}Related Work}{3}{section.0.2}
+\contentsline {subsection}{\numberline {0.2.1}RQ1}{3}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {0.2.2}RQ2}{3}{subsection.0.2.2}
+\contentsline {section}{\numberline {0.3}Methodology}{4}{section.0.3}
+\contentsline {subsection}{\numberline {0.3.1}Description of the data}{4}{subsection.0.3.1}
+\contentsline {subsection}{\numberline {0.3.2}Wat plotjes en tabelletjes}{5}{subsection.0.3.2}
+\contentsline {subsection}{\numberline {0.3.3}Methods}{6}{subsection.0.3.3}
+\contentsline {subsubsection}{RQ1}{6}{section*.3}
+\contentsline {subsubsection}{RQ2}{6}{section*.4}
+\contentsline {section}{\numberline {0.4}Evaluation}{8}{section.0.4}
+\contentsline {section}{\numberline {0.5}Conclusions}{9}{section.0.5}
+\contentsline {subsection}{\numberline {0.5.1}Acknowledgements}{9}{subsection.0.5.1}
+\contentsline {section}{\numberline {.1}Slides}{10}{section.Alph0.1}
