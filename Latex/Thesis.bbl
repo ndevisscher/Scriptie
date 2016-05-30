@@ -1,12 +1,25 @@
-\begin{thebibliography}{2}
+\begin{thebibliography}{4}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[en~Pieter C.~Lagas.(2015)]{troonredes}
-Herko~Coomans en~Pieter C.~Lagas.
+\bibitem[Blondel et~al.(2008)Blondel, Guillaume, Lambiotte, and
+  Lefebvre]{blondel2008fast}
+Vincent~D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, and Etienne Lefebvre.
+\newblock Fast unfolding of communities in large networks.
+\newblock \emph{Journal of statistical mechanics: theory and experiment},
+  2008\penalty0 (10):\penalty0 P10008, 2008.
+
+\bibitem[Callon et~al.(1991)Callon, Courtial, and Laville]{callon1991co}
+Michel Callon, Jean~Pierre Courtial, and Fran{\c{c}}oise Laville.
+\newblock Co-word analysis as a tool for describing the network of interactions
+  between basic and technological research: The case of polymer chemsitry.
+\newblock \emph{Scientometrics}, 22\penalty0 (1):\penalty0 155--205, 1991.
+
+\bibitem[Herko~Coomans(2015)]{troonredes}
+Pieter C.~Lagas. Herko~Coomans.
 \newblock troonredes.nl, 2015.
 \newblock URL \url{www.troonredes.nl}.
 

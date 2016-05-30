@@ -6,10 +6,11 @@
 \contentsline {section}{\numberline {0.3}Methodology}{3}{section.0.3}
 \contentsline {subsection}{\numberline {0.3.1}Description of the data}{3}{subsection.0.3.1}
 \contentsline {subsection}{\numberline {0.3.2}Missing data}{3}{subsection.0.3.2}
-\contentsline {subsection}{\numberline {0.3.3}Wat plotjes en tabelletjes}{4}{subsection.0.3.3}
-\contentsline {subsection}{\numberline {0.3.4}Methods}{5}{subsection.0.3.4}
-\contentsline {subsubsection}{RQ1}{5}{section*.3}
-\contentsline {subsubsection}{RQ2}{5}{section*.4}
+\contentsline {subsection}{\numberline {0.3.3}Quality of the data}{3}{subsection.0.3.3}
+\contentsline {subsection}{\numberline {0.3.4}Wat plotjes en tabelletjes}{4}{subsection.0.3.4}
+\contentsline {subsection}{\numberline {0.3.5}Methods}{5}{subsection.0.3.5}
+\contentsline {subsubsection}{RQ1}{6}{section*.3}
+\contentsline {subsubsection}{RQ2}{6}{section*.4}
 \contentsline {section}{\numberline {0.4}Evaluation}{7}{section.0.4}
 \contentsline {section}{\numberline {0.5}Conclusions}{8}{section.0.5}
 \contentsline {subsection}{\numberline {0.5.1}Acknowledgements}{8}{subsection.0.5.1}
