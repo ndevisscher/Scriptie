@@ -1,17 +1,17 @@
-\contentsline {section}{\numberline {0.1}Introduction}{1}{section.0.1}
-\contentsline {paragraph}{Overview of thesis}{1}{section*.2}
-\contentsline {section}{\numberline {0.2}Related Work}{2}{section.0.2}
-\contentsline {subsection}{\numberline {0.2.1}RQ1}{2}{subsection.0.2.1}
-\contentsline {subsection}{\numberline {0.2.2}RQ2}{2}{subsection.0.2.2}
-\contentsline {section}{\numberline {0.3}Methodology}{3}{section.0.3}
-\contentsline {subsection}{\numberline {0.3.1}Description of the data}{3}{subsection.0.3.1}
-\contentsline {subsection}{\numberline {0.3.2}Missing data}{3}{subsection.0.3.2}
-\contentsline {subsection}{\numberline {0.3.3}Quality of the data}{3}{subsection.0.3.3}
-\contentsline {subsection}{\numberline {0.3.4}Wat plotjes en tabelletjes}{4}{subsection.0.3.4}
-\contentsline {subsection}{\numberline {0.3.5}Methods}{5}{subsection.0.3.5}
-\contentsline {subsubsection}{RQ1}{6}{section*.3}
-\contentsline {subsubsection}{RQ2}{6}{section*.4}
-\contentsline {section}{\numberline {0.4}Evaluation}{7}{section.0.4}
-\contentsline {section}{\numberline {0.5}Conclusions}{8}{section.0.5}
-\contentsline {subsection}{\numberline {0.5.1}Acknowledgements}{8}{subsection.0.5.1}
-\contentsline {section}{\numberline {.1}Slides}{9}{section.Alph0.1}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {paragraph}{Overview of thesis}{4}{section*.3}
+\contentsline {section}{\numberline {2}Related Work}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}RQ1}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}RQ2}{5}{subsection.2.2}
+\contentsline {section}{\numberline {3}Methodology}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Description of the data}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Missing data}{6}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Quality of the data}{6}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Wat plotjes en tabelletjes}{7}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Methods}{8}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}RQ1}{9}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}RQ2}{9}{subsubsection.3.5.2}
+\contentsline {section}{\numberline {4}Evaluation}{10}{section.4}
+\contentsline {section}{\numberline {5}Conclusions}{11}{section.5}
+\contentsline {subsection}{\numberline {5.1}Acknowledgements}{11}{subsection.5.1}
+\contentsline {section}{\numberline {A}Slides}{12}{appendix.A}
